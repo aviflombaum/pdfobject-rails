@@ -1,0 +1,1 @@
+//= require pdfobject-rails/pdfobject
